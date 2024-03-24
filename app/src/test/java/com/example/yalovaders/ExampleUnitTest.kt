@@ -1,4 +1,4 @@
-package com.example.huseyinMeteCaliskan
+package com.example.yalovaders
 
 import org.junit.Test
 

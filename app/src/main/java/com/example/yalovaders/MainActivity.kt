@@ -1,4 +1,4 @@
-package com.example.huseyinMeteCaliskan
+package com.example.yalovaders
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
