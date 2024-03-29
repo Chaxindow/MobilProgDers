@@ -1,5 +1,6 @@
 package com.example.yalovaders
 
+// Hüseyin Mete Çalışkan - 190101048
 
 open class Item(name: String, price: Double) {
 
@@ -39,6 +40,8 @@ class ShoppingList {
                     is Cloth -> {
                         println("${shoppingItemList.indexOf(item) + 1}. ${item.name} ${item.price}$ ${item.type}")
                     }
+
+                    else -> continue
                 }
             }
         }
